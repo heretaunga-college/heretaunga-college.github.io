@@ -4,4 +4,73 @@
 @import neat/neat
 @import compass-import
 
+body
+	background-color: #C84951
 
+a
+	text-decoration: none
+	color: #000
+
+#container
+	+outer-container
+
+.row
+	+span-columns(12)
+	+omega
+
+.columns-4
+	+span-columns(4 of 12)
+	// background-color: yellow
+	+media($tablet)
+		+span-columns(8)
+	+media($mobile)
+		+span-columns(4)
+	text-align: center
+	opacity: 0.7
+	padding: 20px
+	&:hover
+		opacity: 1
+		background-color: rgba(0,0,0,0.2)
+
+.omega
+	+omega
+
+h1
+	text-align: center
+h2
+	background-color: #FFF
+	padding: 10px 0
+#seno
+	width: 50%
+	margin: 10px auto
+
+#wrap-tutor
+	text-align: center
+
+#tutor
+	margin: 0 auto
+
+#tutor, #tutor img, img
+	+border-radius(250px)
+	height: 200px
+	width: 208px
+
+#wrap-students
+	background-color: #FFF
+	// overflow: hidden
+
+#students
+	text-align: center
+	margin: 50px 0 20px 0
+
+.status
+	+media($mobile)
+		font-size: 13px
+	+media($tablet)
+		font-size: 2rem
+	font-size: 3rem
+
+#footer
+	background-color: #FFF
+	padding: 10px 0
+	text-align: center
