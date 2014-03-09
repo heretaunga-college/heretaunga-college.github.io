@@ -1,0 +1,67 @@
+#allaboutme{
+	color: #C00;
+	font-weight: bold;
+}
+h2{
+	color: #FFF;
+}
+h3{
+	color: #F36;
+}
+body{
+	background-color: #CCC;
+}
+#box7{
+	background-color: #333;
+	color: #FFF;
+}
+#sunlight{
+	 width: 203px;
+	 height:300px;
+	 float: left;
+	 padding: 10px;
+	 padding-color: #333; }
+	 #box1{ 
+	 text-align: center;}
+	 
+	
+#myname{
+	text-align: center;
+	color: #C9F;}
+	
+	h1{
+		text-align: center;
+	}
+#box9{
+	background-color: #333;}
+#mypets {
+	color: #F36;
+}
+#cuddles
+{
+	width: 203px;
+	height: 300px;
+	padding: 50px;
+}
+#smudge
+{width:203px;
+height: 300px;
+padding:50px;
+}
+#seaside
+{width:203px;
+height:300px;
+float: right;
+padding: 10px;
+}
+ #box10{
+	 color: #fff;
+	 background-color: #666;
+	text-align: center;
+ }
+#curly
+{
+	float: right;
+	width: 203px;
+	padding:50px;
+}

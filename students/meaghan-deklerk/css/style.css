@@ -1,0 +1,159 @@
+#title
+{
+	
+	font-family: Georgia, "Times New Roman", Times, serif;
+	
+}
+
+
+#bio
+{
+	
+	float:left;
+	padding-left:30px;
+	padding-right:30px;
+	padding-bottom:20px;
+	margin-left:150px;
+	margin-right:100px;
+	margin-bottom:50px;
+	width:1000px;
+	
+	
+		
+	
+}
+
+img
+{
+		
+	float:left;
+	padding:10px;
+	border-width:3px;
+	border-color:black;
+	border-style:groove;
+	margin:20px;
+	background-color:#CC0099;
+}
+
+#hobbies
+{
+	
+	Float:left;
+	padding-left:50px;
+	padding-right:20px;
+	margin-left:100px;
+	margin-right:20px;
+	width:300px;
+	clear:both;
+		
+	
+}
+
+
+
+.boxes
+{
+	
+	background-color:#CC0099;
+	color:#FFFFFF;	
+	padding-left:20px;
+	padding-right:20px;
+	text-align:center;
+	width:200px;
+	border-width:3px;
+	border-color:black;
+	border-style:groove
+}
+
+.boxes:hover
+{
+	
+	color:#000;	
+	
+}
+
+#things
+{
+	
+	Float:left;
+	padding-left:50px;
+	padding-right:20px;
+	margin-left:100px;
+	margin-right:40px;
+	width:300px;
+	
+}
+
+#bands
+{
+	
+	Float:left;
+	padding-left:50px;
+	padding-right:20px;
+	margin-left:100px;
+	margin-right:40px;
+	width:300px;
+	
+}
+
+footer
+{
+	
+	width:1120px;
+	background-color:#CC0099;
+	clear:both;
+	padding:20px;
+	margin-left:200px;
+	margin-right:200px;
+	margin-top:80px;
+	color:#FFFFFF;
+	text-align:center;
+	border-width:3px;
+	border-color:black;
+	border-style:groove
+	
+}
+
+#tumblr
+{
+	
+	color:#FFFFFF;
+	
+}
+
+#tumblr:hover
+{
+	
+	color:#0F0;	
+	
+}
+
+#email
+{
+	
+	color:#FFFFFF;	
+	
+}
+
+#email:hover
+{
+	
+	color:#0F0;	
+	
+}
+
+body
+{
+	
+	background-color:#B986FF;	
+	
+}
+
+
+
+p
+{
+	
+	font-family:"Courier New", Courier, monospace;
+	
+}

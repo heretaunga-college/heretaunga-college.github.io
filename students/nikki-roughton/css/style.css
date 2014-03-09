@@ -1,0 +1,84 @@
+h1:hover{ color:#0C8280;}
+
+img{float:left;}
+
+#box1{background-color:#BAE7DB;
+		float:left;
+		text-align:left;
+		margin:20px;
+		padding:20px;
+		width:auto;
+		clear:both;}
+		
+.title{ background-color: #0C8280;
+		color: white;
+		width: 250px;
+		float: left;
+		text-align: center;
+		margin: 20px;
+		padding: 10px;}
+		
+#box2{float:left;
+	text-align: justify;
+	padding:10px;
+	margin-right:40px;
+	margin-left:20px;
+	width:260px;
+	}
+#box3{float:left;
+	text-align: justify;
+	padding:10px;
+	margin-right:40px;
+	margin-left:20px;
+	width:260px;
+	}
+#box4{float:left;
+	text-align: justify;
+	padding:10px;
+	margin-right:40px;
+	margin-left:20px;
+	width:260px;
+	}
+	
+#box5{ float: right;
+		clear:both;}
+		
+.paragraph{background-color: #BAE7DB;
+		width: 250px;
+		text-align: justify;
+		margin: 20px;
+		padding: 10px;}
+img
+{
+	border-width: 3px;
+	border-color: #0C8280;
+	border-style: solid;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	margin-right: 20px;
+}
+body{ background-color: #BAE7DB;}
+
+
+footer{clear:both;
+background-color:#0C8280;
+width:auto;
+height:40px;
+text-align:center;
+color:white;
+padding:10px;
+margin:auto;}
+
+p{font-family:Arial, Gotham, "Helvetica Neue", Helvetica, sans-serif}
+		
+h1{font-family:Arial, Gotham, "Helvetica Neue", Helvetica, sans-serif}
+
+h3{font-family:Arial, Gotham, "Helvetica Neue", Helvetica, sans-serif}
+
+ul a {color:#0C8280;
+text-decoration: none;}
+
+a {color: #BAE7DB;
+text-decoration: none;}

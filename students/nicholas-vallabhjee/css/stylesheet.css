@@ -1,0 +1,78 @@
+h1{
+	
+	text-align:center;
+	margin: 10px;
+	padding:5px;
+	
+	}
+#h3-1{
+	
+	background-color:black;
+	margin-left:10px;
+	padding:5px;
+	float:left;
+	color:white;
+	
+	
+	
+	}	
+
+#h3-3{
+	
+	background-color:black;
+	float:right;
+	margin-right:10px;
+	padding:5px;
+	color:white;
+	
+	
+	}
+#p-1{
+	
+	float:right;
+	
+	}
+
+#me{
+	
+	float:left;
+	
+	}
+#p-2{
+	
+	float: left;
+	
+	}
+#end{
+	
+	text-align:center;
+	color:white;
+	margin:10px;
+	padding:10px;
+	background-color:black;
+	
+	}
+body{
+	
+	background-color:#3FF;
+	
+	}
+#p-3{
+	
+	text-align:center;
+	
+	}	
+#h3-2{
+	
+	text-align:center;
+	color:white;
+	background-color:black;
+	margin:10px;
+	padding:5px;
+	
+	}	
+#cow{
+	
+	float:right;
+	
+	}
