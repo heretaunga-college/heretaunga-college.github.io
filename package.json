@@ -1,0 +1,27 @@
+{
+  "name": "heretaunga-college",
+  "version": "0.0.1",
+  "dependencies": {
+    "grunt-cli": "latest",
+    "grunt-contrib-compass": "latest",
+    "grunt-contrib-watch": "latest"
+  },
+  "description": "Showcase Heretaunga college students website",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heretaunga-college/heretaunga-college.github.io.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Seno Sulharyadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heretaunga-college/heretaunga-college.github.io/issues"
+  },
+  "homepage": "https://github.com/heretaunga-college/heretaunga-college.github.io"
+}
